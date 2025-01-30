@@ -7,7 +7,7 @@
 Ubuntu 22.04에서 개발되었습니다.
 ### 2.0 레퍼지토리 클론
 ```
-https://github.com/SHIN-DONG-UK/stt_and_vad.git
+git clone https://github.com/SHIN-DONG-UK/stt_and_vad.git
 cd stt_and_vad
 ```
 
