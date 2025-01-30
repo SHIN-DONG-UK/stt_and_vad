@@ -75,3 +75,4 @@ export LD_LIBRARY_PATH=`python3 -c 'import os; import nvidia.cublas.lib; import 
 ```bash
 python stt_and_vad_gui.py
 ```
+![image](https://github.com/user-attachments/assets/9edc47c7-778c-495d-b85b-76cf43f44a88)
