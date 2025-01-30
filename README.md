@@ -1,7 +1,7 @@
 # 1. 설명
-faster whisper를 통해 STT를 구현하고, VAD 기술을 추가하여 Speech to Text 프로그램을 구현하였습니다.  
-녹음 시작(START) 버튼을 누르면 녹음이 시작되고, 4초간의 고정된 녹음 이후 VAD로 발화 종료를 자동으로 감지하여 녹음이 종료됩니다.  
-faster whisper가 해당 녹음 파일을 통해 text로 변환하여 프로그램에 출력합니다.  
+- faster whisper를 통해 STT를 구현하고, VAD 기술을 추가하여 Speech to Text 프로그램을 구현하였습니다.  
+- 녹음 시작(START) 버튼을 누르면 녹음이 시작되고, 4초간의 고정된 녹음 이후 VAD로 발화 종료를 자동으로 감지하여 녹음이 종료됩니다.  
+- faster whisper가 해당 녹음 파일을 통해 text로 변환하여 프로그램에 출력합니다.  
 
 # 2. 환경설정
 
