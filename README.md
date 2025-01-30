@@ -7,8 +7,10 @@
 Ubuntu 22.04에서 개발되었습니다.
 ### 2.0 레퍼지토리 클론
 ```
-
+https://github.com/SHIN-DONG-UK/stt_and_vad.git
+cd stt_and_vad
 ```
+
 ### 2.1. 파이썬 가상환경
 
 - 파이썬 3.10  버전(우분투 기본)으로 가상환경 만들려면 python3.10-venv 깔아야 함
