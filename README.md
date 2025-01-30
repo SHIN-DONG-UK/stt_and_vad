@@ -6,7 +6,7 @@
 # 2. 환경설정
 Ubuntu 22.04에서 개발되었습니다.
 ### 2.0 레퍼지토리 클론
-```
+```bash
 git clone https://github.com/SHIN-DONG-UK/stt_and_vad.git
 cd stt_and_vad
 ```
@@ -72,3 +72,6 @@ export LD_LIBRARY_PATH=`python3 -c 'import os; import nvidia.cublas.lib; import 
 ```
 
 # 3. 프로그램 실행 방법
+```bash
+python stt_and_vad_gui.py
+```
