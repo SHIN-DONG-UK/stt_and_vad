@@ -13,8 +13,6 @@ cd stt_and_vad
 
 ### 2.1. 파이썬 가상환경
 
-- 파이썬 3.10  버전(우분투 기본)으로 가상환경 만들려면 python3.10-venv 깔아야 함
-
 ```bash
 sudo apt install python3.10-venv
 ```
